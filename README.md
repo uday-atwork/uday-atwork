@@ -13,7 +13,7 @@ An experienced software engineer with a get-it-done attitude towards task at han
 
 🤔 Always looking for peers to connect, discuss and colaborate on ideas!
 
-📫 Want to catch up for a chat? DM me here: LinkedIn, Telegram
+📫 Want to catch up for a chat? Click <a href = "https://www.linkedin.com/in/udaychandrakumar/">here</a> to connect on LinkedIn
 
 <!---
 uday-atwork/uday-atwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
